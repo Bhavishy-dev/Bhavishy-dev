@@ -28,7 +28,6 @@
 <p align="center">
 <a href="https://codepen.io/bhavishydev"><img src="https://skillicons.dev/icons?i=codepen" /></a>
 <a href="https://dev.to/bhavishydev"><img src="https://skillicons.dev/icons?i=devto" /></a>
-<a href="https://codesandbox.io"><img src="https://skillicons.dev/icons?i=codesandbox" /></a>
 <a href="https://instagram.com/bhavisxhy"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
@@ -37,17 +36,14 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,mongodb,mysql,postgres,docker,firebase,flutter,figma,git,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,mongodb,mysql,postgres,firebase,flutter,figma,git,linux" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavishydev&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavishydev&layout=compact&theme=radical" height="150"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bhavishy-dev)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavishydev&theme=radical" />
