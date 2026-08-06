@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bhavishy-dev)](https://git.io/streak-stats)
+<img href="[![GitHub Streak](https://streak-stats.demolab.com/?user=Bhavishy-dev)](https://git.io/streak-stats)" />
 </p>
 
 ---
