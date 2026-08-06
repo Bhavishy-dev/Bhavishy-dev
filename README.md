@@ -16,9 +16,6 @@
 
 - 🔭 Currently working on **Inventory Management Software**
 - 🌱 Learning **Python, Flutter, AI & ML**
-- 👯 Looking to collaborate on **Educational Apps**
-- 🤝 Building: **VidyaX**
-- 💬 Ask me about **React, TypeScript**
 - 📫 Reach me at: **linksparkyofficial@gmail.com**
 
 ---
@@ -42,11 +39,8 @@
 ---
 
 ## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bhavishy-dev)](https://git.io/streak-stats)
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavishydev&theme=radical" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bhavishy-dev)](https://git.io/streak-stats)
 </p>
 
 ---
