@@ -83,10 +83,20 @@ fun_fact: "I turn complex game mechanics into interactive Telegram Mini Apps!"
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhavishy-dev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6" alt="Bhavishy's GitHub Trophies" />
+  <a href="https://github.com/Bhavishy-dev?tab=achievements">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="68" alt="YOLO" title="YOLO Badge" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Bhavishy-dev?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="68" alt="Pair Extraordinaire x3" title="Pair Extraordinaire (Silver x3)" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Bhavishy-dev?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="68" alt="Pull Shark x2" title="Pull Shark (Bronze x2)" />
+  </a>
 </p>
 
 ---
@@ -94,12 +104,15 @@ fun_fact: "I turn complex game mechanics into interactive Telegram Mini Apps!"
 ### 📊 GitHub Activity & Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhavishy-dev&theme=tokyonight&hide_border=false&border_radius=16&background=0f172a" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Bhavishy-dev&theme=tokyonight&hide_border=false&border_radius=16&background=0f172a" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavishy-dev&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=16&bg_color=0f172a" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavishy-dev&layout=compact&theme=tokyonight&border_radius=16&bg_color=0f172a" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavishy-dev&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=16&bg_color=0f172a&custom_title=Bhavishy's%20GitHub%20Stats" height="195" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavishy-dev&layout=compact&theme=tokyonight&border_radius=16&bg_color=0f172a" height="195" alt="Top Languages" />
 </p>
 
 ---
