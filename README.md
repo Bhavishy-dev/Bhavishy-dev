@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhavishy-dev&label=Profile%20Views&color=f59e0b&style=for-the-badge" alt="Profile Views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=Bhavishy-dev&label=PROFILE%20VIEWS&labelColor=1e293b&countColor=f59e0b&style=for-the-badge" alt="Profile Views" />
   <a href="mailto:linksparkyofficial@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://t.me/Piko_Officialbot"><img src="https://img.shields.io/badge/Telegram-PikoBot-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
