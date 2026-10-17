@@ -1,57 +1,125 @@
-<h1 align="center">Hi 👋, I'm Bhavishy Gurjar</h1>
-<h3 align="center">🚀 Frontend & Backend Developer | JEE 2027 Aspirant</h3>
+<h1 align="center">
+  Hi there, I'm <a href="https://github.com/Bhavishy-dev">Bhavishy Gurjar</a> 👋
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhavishydev&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+Open-Source+Creator;Building+Telegram+Mini+Apps+%26+Bots;Crafting+Modern+Web+%26+Mobile+Experiences;JEE+2027+Aspirant+%F0%9F%8E%AF" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bhavishy-dev&label=Profile%20Views&color=f59e0b&style=for-the-badge" alt="Profile Views" />
+  <a href="mailto:linksparkyofficial@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/Piko_Officialbot"><img src="https://img.shields.io/badge/Telegram-PikoBot-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 ---
 
-## 🏆 Achievements
-<div class="d-flex flex-wrap"><a href="/Bhavishy-dev?achievement=yolo&amp;tab=achievements" class="position-relative"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" data-hovercard-type="achievement" data-hovercard-url="/users/Bhavishy-dev/achievements/yolo/detail?hovercard=1" width="64" alt="Achievement: YOLO" data-view-component="true" class="achievement-badge-sidebar" aria-keyshortcuts="Alt+ArrowUp"></a><a href="/Bhavishy-dev?achievement=pair-extraordinaire&amp;tab=achievements" class="position-relative"><img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" data-hovercard-type="achievement" data-hovercard-url="/users/Bhavishy-dev/achievements/pair-extraordinaire/detail?hovercard=1" width="64" alt="Achievement: Pair Extraordinaire" data-view-component="true" class="achievement-badge-sidebar" aria-keyshortcuts="Alt+ArrowUp"><span data-view-component="true" class="Label achievement-tier-label achievement-tier-label--silver text-small text-bold color-shadow-medium px-2 tmp-px-2 py-0 tmp-py-0 mb-1 tmp-mb-1 position-absolute right-0 bottom-0">x3</span></a><a href="/Bhavishy-dev?achievement=pull-shark&amp;tab=achievements" class="position-relative"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" data-hovercard-type="achievement" data-hovercard-url="/users/Bhavishy-dev/achievements/pull-shark/detail?hovercard=1" width="64" alt="Achievement: Pull Shark" data-view-component="true" class="achievement-badge-sidebar" aria-keyshortcuts="Alt+ArrowUp"><span data-view-component="true" class="Label achievement-tier-label achievement-tier-label--bronze text-small text-bold color-shadow-medium px-2 tmp-px-2 py-0 tmp-py-0 mb-1 tmp-mb-1 position-absolute right-0 bottom-0">x2</span></a></div>
+### 💫 About Me
+
+```yaml
+name: Bhavishy Gurjar
+passion: Full-Stack Engineering, Web3/TMA Architecture, Problem Solving
+current_focus: Building Scalable Web Apps, Inventory Management, and TMA Games
+aspirations: Cracking JEE 2027 🎯 & Crafting impactful open-source software
+fun_fact: "I turn complex game mechanics into interactive Telegram Mini Apps!"
+```
+
+- 🔭 **Currently Building:** [PikoBot](https://github.com/Bhavishy-dev/PikoBot) — Telegram RPG Strategy Bot & Interactive Mini App (TMA).
+- 📦 **In Development:** Enterprise-grade **Inventory Management Software**.
+- 🌱 **Learning & Exploring:** Python (Aiogram/AsyncIO), Flutter, Machine Learning & Cloud Architectures.
+- 💬 **Ask Me About:** JavaScript, Python, REST APIs, Telegram Bot & WebApp Development.
+- 📫 **Direct Reach:** [linksparkyofficial@gmail.com](mailto:linksparkyofficial@gmail.com)
 
 ---
 
-## 🧠 About Me
+### 🚀 Featured Open-Source Projects
 
-- 🔭 Currently working on **Inventory Management Software**
-- 🌱 Learning **Python, Flutter, AI & ML**
-- 📫 Reach me at: **linksparkyofficial@gmail.com**
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏰 PikoBot</h3>
+      <p align="center">
+        An open-source Telegram RPG Strategy Bot & Mini App featuring Citadel Base-Building, PvP Raids, Dual-Currency Economy, and a P2P Marketplace.
+      </p>
+      <p align="center">
+        <b>Tech:</b> <code>Python</code> • <code>Aiogram 3</code> • <code>Cloudflare Pages</code> • <code>PostgreSQL</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Bhavishy-dev/PikoBot"><b>View Code ⭐</b></a> • 
+        <a href="https://pikobot-app.pages.dev"><b>Live Landing Page 🌐</b></a> • 
+        <a href="https://t.me/Piko_Officialbot"><b>Play Bot 🤖</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📦 Inventory Management Suite</h3>
+      <p align="center">
+        Modern inventory tracker with real-time stock forecasting, role-based dashboards, and automated supplier workflows.
+      </p>
+      <p align="center">
+        <b>Tech:</b> <code>Node.js / Python</code> • <code>React</code> • <code>Database Sync</code>
+      </p>
+      <p align="center">
+        <i>Active In Development 🚀</i>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Connect With Me
+### 🛠️ Tech Stack & Tooling
+
+<div align="center">
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" /> |
+| **Frontend & UI** | <img src="https://skillicons.dev/icons?i=react,flutter,figma" /> |
+| **Backend & Cloud** | <img src="https://skillicons.dev/icons?i=nodejs,cloudflare,firebase" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" /> |
+| **DevOps & OS** | <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" /> |
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
 
 <p align="center">
-<a href="https://codepen.io/bhavishydev"><img src="https://skillicons.dev/icons?i=codepen" /></a>
-<a href="https://dev.to/bhavishydev"><img src="https://skillicons.dev/icons?i=devto" /></a>
-<a href="https://instagram.com/bhavisxhy"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhavishy-dev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6" alt="Bhavishy's GitHub Trophies" />
 </p>
 
 ---
 
-## ⚙️ Tech Stack
+### 📊 GitHub Activity & Analytics
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,mongodb,mysql,postgres,firebase,flutter,figma,git,linux" />
+  <img src="https://streak-stats.demolab.com?user=Bhavishy-dev&theme=tokyonight&hide_border=false&border_radius=16&background=0f172a" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavishy-dev&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=16&bg_color=0f172a" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavishy-dev&layout=compact&theme=tokyonight&border_radius=16&bg_color=0f172a" width="48%" alt="Top Languages" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Bhavishy-dev" alt="GitHub Streak" />
+  <a href="mailto:linksparkyofficial@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+  <a href="https://instagram.com/bhavisxhy"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://dev.to/bhavishydev"><img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" /></a>
+  <a href="https://codepen.io/bhavishydev"><img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" /></a>
+  <a href="https://github.com/Bhavishy-dev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+</p>
+
+---
+
+### ☕ Support My Work
+
+<p align="center">
+  <a href="https://buymeacoffee.com/bhavishydev" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="46" style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);" />
   </a>
-</p>
-
----
-
-## ☕ Support Me
-
-<p align="center">
-<a href="https://buymeacoffee.com/bhavishydev">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" />
-</a>
 </p>
